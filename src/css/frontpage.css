@@ -1,0 +1,360 @@
+.clips-pd-y-1 {
+    padding-bottom: 1rem!important;
+    padding-top: 1rem!important;
+}
+
+.clips-mg-r-1 {
+    margin-right: 1rem!important;
+}
+
+.clips-interactable, button {
+    color: inherit;
+}
+
+.clips-overflow-hidden {
+    overflow: hidden!important;
+}
+
+.clips-justify-content-center {
+    justify-content: center!important;
+}
+
+.clips-inline-flex {
+    display: inline-flex!important;
+}
+
+.clips-align-items-center {
+    align-items: center!important;
+}
+
+.clips-border-top-left-radius-medium {
+    border-top-left-radius: 4px!important;
+}
+
+.clips-border-top-right-radius-medium {
+    border-top-right-radius: 4px!important;
+}
+
+.clips-border-bottom-right-radius-medium {
+    border-bottom-right-radius: 4px!important;
+}
+
+.clips-border-bottom-left-radius-medium {
+    border-bottom-left-radius: 4px!important;
+}
+
+.clips-core-button, .clips-core-button:hover {
+    text-decoration: none;
+}
+
+.clips-pd-x-05 {
+    padding-left: .5rem!important;
+    padding-right: .5rem!important;
+}
+
+.clips-align-middle {
+    vertical-align: middle!important;
+}
+
+.clips-core-button {
+    font-size: 1.2rem;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.clips-button-icon, .clips-core-button {
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    height: 3rem;
+    user-select: none;
+}
+
+.clips-core-button--primary {
+    background-color: #3c70ff;
+    color: #fff;
+    outline: none;
+}
+
+.clips-core-button-label {
+    padding: 0 1rem;
+}
+
+.clips-flex-grow-0 {
+    flex-grow: 0!important;
+}
+
+.clips-svg {
+    align-items: center;
+    display: inline-flex;
+}
+
+.clips-svg__asset {
+    fill: #2079ff;
+}
+
+.clips-core-button--primary:focus, .clips-core-button--primary:hover:not(.clips-core-button--disabled), .clips-core-button--secondary:focus, .clips-core-button--secondary:hover:not(.clips-core-button--disabled) {
+    opacity: .76;
+}
+.clips-core-button, .clips-core-button:hover {
+    text-decoration: none;
+}
+button:hover {
+    cursor: pointer;
+}
+
+.clips-mg-r-1 {
+    margin-right: 1rem!important;
+}
+
+.offset-selector__input-label p {
+    line-height: 1.3;
+}
+
+.clips-c-text-alt-2 {
+    color: #868686!important;
+}
+
+.clips-justify-content-start {
+    justify-content: flex-start!important;
+}
+
+.clips-pd-r-05 {
+    padding-right: .5rem!important;
+}
+
+.clips-justify-content-between {
+    justify-content: space-between!important;
+}
+
+.clips-flex-row {
+    flex-direction: row!important;
+}
+.clips-border-l {
+    border-left: 1px solid hsla(0,0%,100%,.1)!important;
+}
+.clips-border-b {
+    border-bottom: 1px solid hsla(0,0%,100%,.1)!important;
+}
+.clips-border-r {
+    border-right: 1px solid hsl(0 0% 100%/.1)!important;
+}
+.clips-border-t {
+    border-top: 1px solid hsla(0,0%,100%,.1)!important;
+}
+.clips-border-l {
+    border-left-color: #2a2a2a!important;
+}
+
+.clips-justify-content-center {
+    justify-content: center!important;
+}
+
+.offset-selector__offset-input {
+    width: 12rem;
+}
+
+.offset-selector__button {
+    border-right: 1px solid hsla(0,0%,100%,.1);
+}
+
+.clips-core-button-label {
+    padding: 0 1rem;
+}
+
+.clips-flex-grow-0 {
+    flex-grow: 0!important;
+}
+
+.clips-button-icon, .clips-core-button {
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    height: 3rem;
+    user-select: none;
+}
+
+.clips-align-middle {
+    vertical-align: middle!important;
+}
+
+.clips-core-button, .clips-core-button:hover {
+    text-decoration: none;
+}
+
+.clips-core-button--secondary {
+    background-color: #333536;
+    color: #fff;
+    outline: none;
+}
+
+.clips-core-button--primary {
+    background-color: #3c70ff;
+    color: #fff;
+    outline: none;
+}
+
+.clips-button:disabled {
+    background-color: #484848;
+    pointer-events: none;
+    outline: none;
+}
+
+.clips-core-button--disabled {
+    background-color: #484848;
+    pointer-events: none;
+    outline: none;
+}
+
+.clips-mg-x-3 {
+    margin-left: 3rem!important;
+    margin-right: 3rem!important;
+}
+
+.common-centered-column {
+    margin: 0 auto;
+    max-width: 200rem;
+}
+
+.clips-pd-t-1, .clips-pd-t-2 {
+    padding-top: 2rem!important;
+}
+
+.clips-flex-shrink-0 {
+    flex-shrink: 0!important;
+}
+
+.clips-tower {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+    min-width: 100%;
+}
+
+.clips-tower--gutter-xs {
+    margin-left: -.5rem;
+    margin-right: -.5rem;
+}
+
+.clips-mg-b-2 {
+    margin-bottom: 2rem;
+}
+
+.clips-mg-0 {
+    margin: 0!important;
+}
+
+.clips-mg-t-1 {
+    margin-top: 1rem!important;
+}
+.clips-item-order-2 {
+    order: 2!important;
+}
+
+.clips-item-order-1 {
+    order: 1!important;
+}
+
+.clips-flex-nowrap {
+    flex-wrap: nowrap!important;
+}
+
+.clips-media-card-meta__text-container {
+    min-width: 0;
+}
+
+.clips-media-card-meta__links, .clips-media-card-meta__title {
+    margin-bottom: .3rem;
+}
+
+.clips-c-text-alt {
+    color: hsl(0 0% 100%/.8)!important;
+}
+
+.clips-link:visited {
+    color: #fff;
+}
+
+.clips-ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.clips-c-text-overlay {
+    color: #fff!important;
+}
+
+.dNNaBC {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.hhnnBG {
+    padding-bottom: 56.25%;
+}
+
+.dNNaBC>:not(.ScAspectSpacer-sc-1sw3lwy-0) {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    min-height: 100%;
+    top: 0;
+}
+
+.clips-c-background-alt-2 {
+    background-color: hsl(0 0% 20%/1)!important;
+}
+
+.clips-overflow-hidden {
+    overflow: hidden!important;
+}
+
+.preview-card-thumbnail__image img {
+    width: 100%;
+}
+
+.clips-mg-1 {
+    margin: 1rem!important;
+}
+
+.clips-font-size-6 {
+    font-size: 1.2rem!important;
+}
+
+.clips-border-radius-small {
+    border-radius: .2rem!important;
+}
+
+.clips-c-background-overlay {
+    background-color: rgb(0 0 0/.6)!important;
+}
+
+.clips-c-text-overlay {
+    color: #fff!important;
+}
+
+.scrollable-area {
+    height: 100%;
+    position: relative;
+}
+
+.clips-block {
+    display: block!important;
+}
+
+.clips-interactable, button {
+    color: inherit;
+}
+
+.offset-selector__icon {
+    height: 5rem;
+    width: 5rem;
+}
+
+.clips-svg__asset {
+    fill: #2079ff;
+}
